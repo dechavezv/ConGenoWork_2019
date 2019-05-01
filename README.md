@@ -1,4 +1,4 @@
-# Repository about Conservation Genomic Workshop 2019
+# Repository about Conservation Genomics Workshop 2019
 
 
 # Notes Week1 April 30
